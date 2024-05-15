@@ -1,79 +1,53 @@
 package Interface;
 
-public class Student implements Trial, Comparable<Student> {
+public class Student implements Method, Comparable<Student> {
 
-    private int s1Marks;
-    private int s2Marks;
-    private String s1Name;
-    private String s2Name;
+    private int Marks;
+    private String Name;
 
-    public int getS2Marks() {
-        return s2Marks;
+    public Student(int marks, String name) {
+        Marks = marks;
+        Name = name;
     }
 
-    public void setS2Marks(int s2Marks) {
-        this.s2Marks = s2Marks;
-    }
-
-    public String getS2Name() {
-        return s2Name;
-    }
-
-    public void setS2Name(String s2Name) {
-        this.s2Name = s2Name;
-    }
-
-    public Student() {
-    }
-
-    public int getS1Marks() {
-        return s1Marks;
-    }
-
-    public void setS1Marks(int s1Marks) {
-        this.s1Marks = s1Marks;
-    }
-
-    public String getS1Name() {
-        return s1Name;
-    }
-
-    public void setS1Name(String s1Name) {
-        this.s1Name = s1Name;
-    }
-
-    public Student(int s1Marks, int s2Marks, String s1Name, String s2Name) {
-        this.s1Marks = s1Marks;
-        this.s2Marks = s2Marks;
-        this.s1Name = s1Name;
-        this.s2Name = s2Name;
-    }
+//    public int getMarks() {
+//        return Marks;
+//    }
+//
+//    public void setMarks(int marks) {
+//        Marks = marks;
+//    }
+//
+//    public String getName() {
+//        return Name;
+//    }
+//
+//    public void setName(String name) {
+//        Name = name;
+//    }
 
     @Override
     public void displayName() {
-        System.out.println(s1Name);
-        System.out.println(s2Name);
-    }
-
-    @Override
-    public void displayNmae() {
-
+        System.out.println(Name);
     }
 
     @Override
     public void showMarks() {
-        System.out.println(s1Marks);
-        System.out.println(s2Marks);
+        System.out.println(Marks);
     }
 
     @Override
     public int compareTo(Student st) {
         int a;
-        if(s1Marks >st.s2Marks){
+        if(Marks >st.Marks){
             a= 1;
         }
-        else
-            a=0;
+        else if(Marks==st.Marks){
+            a=2;
+        }
+        else {
+            a = 3;
+        }
         return a;
     }
 }

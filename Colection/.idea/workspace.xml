@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="700197ce-2271-432d-ad06-a2d03a0bc889" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/Some_Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/Anagram/AnagramPro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/DisariumNumber/Disarium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/Fibonacci/Fibo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/Interface/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/Interface/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/Interface/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/PrimeNumber/PrimeCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/Time_Date/Date_Time.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/Time_Date/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/inheritance/HierarchicalInheritance/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/inheritance/HierarchicalInheritance/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/inheritance/HierarchicalInheritance/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/inheritance/HierarchicalInheritance/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/inheritance/HierarchicalInheritance/MultilevelInheritance/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/inheritance/HierarchicalInheritance/MultilevelInheritance/BabyDog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/inheritance/HierarchicalInheritance/MultilevelInheritance/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/inheritance/HierarchicalInheritance/MultilevelInheritance/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/inheritance/HierarchicalInheritance/SimpleInheritance/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/inheritance/HierarchicalInheritance/SimpleInheritance/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inherutance/src/inheritance/HierarchicalInheritance/SimpleInheritance/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_Method/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../String_Method/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="Day-10" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2gXDoqa0mFCv1TGoZkr2WSJesn0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Day-11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Desktop/RailWorld/Day11",
+    "onboarding.tips.debug.path": "C:/Users/HP/Desktop/RailWorld/Colection/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="700197ce-2271-432d-ad06-a2d03a0bc889" name="Changes" comment="" />
+      <created>1715835210324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715835210324</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

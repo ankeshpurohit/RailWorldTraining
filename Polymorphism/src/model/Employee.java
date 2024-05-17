@@ -14,7 +14,7 @@ public class Employee {
     {
         float area;
         float pi=(22/7);
-        area =Math.PI(*r*r);
+        area =pi*(r*r);
         return area;
     }
 

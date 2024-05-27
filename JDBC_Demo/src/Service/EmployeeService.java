@@ -1,7 +1,7 @@
 package JDBC_Demo.src.Service;
 
-import DAO.EmployeeDAO;
-import Models.Employee;
+import JDBC_Demo.src.DAO.EmployeeDAO;
+import JDBC_Demo.src.Models.Employee;
 
 import java.sql.SQLException;
 import java.util.List;
@@ -28,5 +28,9 @@ public class EmployeeService {
 
     public void deleteEmployee(int id) throws SQLException {
         employeeDAO.deleteEmployee(id);
+    }
+
+    public Employee getEmployeeById(int id) throws SQLException {
+        return employeeDAO.getEmployeeById(id);
     }
 }

@@ -1,4 +1,4 @@
-package SumCoin;
+package ZigZagPattern;
 
 public class Sum_Coin {
         static int count(int coins[], int n, int sum)

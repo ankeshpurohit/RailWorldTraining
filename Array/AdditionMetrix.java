@@ -1,6 +1,8 @@
+package Array;
+
 import java.util.Scanner;
 
-public class SubtractionMetrix {
+public class AdditionMetrix {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int n,m;
@@ -23,12 +25,12 @@ public class SubtractionMetrix {
             }
         }
 
-        System.out.println("After Subtraction : ");
+        System.out.println("After Addition : ");
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                arr1[i][j]-=arr2[i][j];
+                arr1[i][j]+=arr2[i][j];
             }
-        }
+                }
         for (int j = 0; j < n; j++) {
             for (int k = 0; k < m; k++) {
                 System.out.print(arr1[j][k]+" ");
@@ -36,5 +38,4 @@ public class SubtractionMetrix {
             System.out.println();
         }
     }
-
 }

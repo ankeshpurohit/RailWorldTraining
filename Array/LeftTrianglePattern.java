@@ -1,3 +1,5 @@
+package Array;
+
 public class LeftTrianglePattern {
     public static void main(String[] args) {
         int numRows = 5; // Change this value to adjust the height of the triangle
